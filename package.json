@@ -1,0 +1,25 @@
+{
+  "name": "appmetrics-kafka",
+  "version": "1.0.0",
+  "description": "Kafka connector for Node Application Metrics",
+  "main": "index.js",
+  "dependencies": {
+    "appmetrics": "^1.0.4",
+    "kafka-node": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appmetrics",
+    "kafka",
+    "performance",
+    "monitoring"
+  ],
+  "author": "Dan Cunnington <DanCunnington@uk.ibm.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/RuntimeTools/appmetrics-kafka.git"
+  },
+  "license": "Apache-2.0"
+}
