@@ -150,7 +150,8 @@ The connector sends the following topics to Kafka from Node Application Metrics:
 The Node Application Metrics to Kafka Connector is licensed using an Apache v2.0 License.
 
 ### Version
-1.0.0
+2.0.0
 
 #### Version History
+2.0.0 update appmetrics version
 1.0.0 Initial release  
