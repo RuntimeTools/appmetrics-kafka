@@ -154,4 +154,5 @@ The Node Application Metrics to Kafka Connector is licensed using an Apache v2.0
 
 #### Version History
 2.0.0 update appmetrics version
+
 1.0.0 Initial release  
